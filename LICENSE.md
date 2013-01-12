@@ -1,6 +1,6 @@
 The MIT License
 
-Notepad++ Port, Copyright (c) 2013 Michael Wales
+Notepad++ Port, Copyright (c) 2013 Michael Wales  
 Solarize, Copyright (c) 2011 Ethan Schoonover
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
