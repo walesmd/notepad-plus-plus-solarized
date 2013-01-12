@@ -1,5 +1,4 @@
 # Solarized Colorscheme for Notepad++
-
 This is a [Solarized](http://ethanschoonover.com/solarized) color scheme for [Notepad++](http://notepad-plus-plus.org/) 
 ([GitHub page](https://github.com/walesmd/notepad-plus-plus-solarized)) by [Michael Wales](http://github.com/walesmd/).
 
@@ -7,19 +6,17 @@ See the [Solarized website](http://ethanschoonover.com/solarized) or [GitHub pag
 for versions of this color scheme for other editors, terminals and other applications.
 
 
-
-Installation
-------------
+## Installation
 Use one of the methods below:
 
 -   Move the `.xml` files to `%PROGRAMFILES%\Notepad++\themes\` and select Solarized (Dark/Light) within the Style 
-    Configurator in Notepad++
+    Configurator in Notepad++. This directory may already have out-dated versions of Solarized that should be deleted, 
+    named `Solarized.xml` and `Solarized-light.xml`
     
 -   or, rename this file to styler.xml, then move & replace to %APPDATA%\Notepad++\stylers.xml
 
 
-License
--------
+## License
 Notepad++ Port, Copyright (c) 2013 Michael Wales
 Solarize, Copyright (c) 2011 Ethan Schoonover
 
