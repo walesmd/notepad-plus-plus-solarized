@@ -771,5 +771,6 @@ Credits:
         <WidgetStyle name="Active tab unfocused indicator" styleID="0" fgColor="F57900" />
         <WidgetStyle name="Active tab text" styleID="0" fgColor="2E3436" />
         <WidgetStyle name="Inactive tabs" styleID="0" fgColor="555753" bgColor="BABDB6" />
+        <WidgetStyle name="URL hovered" styleID="0" fgColor="F1FA8C" bgColor="282A36" fontStyle="0" />
     </GlobalStyles>
 </NotepadPlus>
